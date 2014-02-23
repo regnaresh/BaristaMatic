@@ -1,10 +1,10 @@
 package coffeedispenser;
 
-public class RunDispenser {
+class Mocha extends Beverage {
 
-	public static void main(String[] args) {
+	@Override
+	public void calculateCost() {
 		// TODO Auto-generated method stub
-		
 		
 	}
 
